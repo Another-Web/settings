@@ -1,3 +1,6 @@
+# Another Web browser settings
+The fork of LibreWolf's ones with better UX, supporting Web3 and decentralized protocols.
+
 # LibreWolf settings
 
 LibreWolf settings for all platforms.
