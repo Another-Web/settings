@@ -95,6 +95,14 @@
         "SupportMenu": {
             "Title": "LibreWolf Issue Tracker",
             "URL": "https://codeberg.org/librewolf/issues"
+        },
+        "Proxy": {
+            "Mode": "manual",
+            "Locked": false,
+            "AutoLogin": true,
+            "SOCKSVersion": 5,
+            "SOCKSProxy": "127.0.0.1:9050",
+            "UseProxyForDNS": false
         }
     }
 }
